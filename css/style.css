@@ -1,0 +1,32 @@
+html
+{
+    background-color: black;
+    color:white;
+
+}
+
+footer
+{
+    text-align: center;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+th
+{
+    border: 1px solid white;
+}
+
+td
+{
+    border: 1px solid white;
+    text-align: center;
+}
+
+.me
+{
+    text-align: center;
+}

@@ -2,7 +2,7 @@
 # <p align="center"> Gatisseur Julien </p>
 
  <div align="center">
-<img src="me.jpg" alt="me" width="150"/>
+<img src="img/me.jpg" alt="me" width="150"/>
 
 *"There is nothing impossible to they who will try.”*
  </div>

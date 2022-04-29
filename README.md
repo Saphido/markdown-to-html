@@ -1,51 +1,21 @@
-# <p align="center">Converting this project to an **HTML** form</p><br>
-# <p align="center"> Gatisseur Julien </p>
+# <p align="center">Converting the markdown project file to an **HTML** & **CSS** form.</p><br>
+### <p align="center"> <a href="https://saphido.github.io/markdown-to-html/">LINK TO THE WEB PAGE</a> </p><br>
 
- <div align="center">
-<img src="img/me.jpg" alt="me" width="150"/>
 
-*"There is nothing impossible to they who will try.”*
- </div>
+# CHANGELOG V1.0 :
 
-## Me, in one sentence
+### HTML
 
-* :birthday: Birthday: 19/05
-* :rainbow: Favorite color: Red
-* :hamburger: Favorite food: Hamburger
-* :pizza: Pinneapple on pizza: &#9745;
+* Adding basics html balises
+* Adding some articles to divide the differents category
+* Adding some tables and list
+* Removing CSS into the HTML code and adding CSS stylesheet in the project
 
-## Hobbies
+### CSS
 
-* :video_game: Video games
-  * League of legends
-  * Minecraft
-  * Final Fantasy XIV
-  * Dofus
+* Migrating all the css code from html file to his own file
 
-* :clapper: Movies
-  * All the fast & furious
-  * The odyssey of Pi
-  * The green line
-  * and more...
+### GITHUB PAGE
 
-* :swimmer: Swimming Pool
+* Publishing the project on Github Page
 
-* :musical_note: Musics
-
-* :student: Learning programmation (Actually learning web language at Becode & JAVA at home)
-
-* :roller_coaster: Roller coasters
-
-## You can always count on me when
-
-* You need help for something
-
-## A funny story
-
-When i was younger, i found a stray cat, my mother didn't want animals at home so i took it anyway and i hid it in my room, i managed to hide it for 1 week before my mother finds out. And in the end, i was able to keep it because i took care of him alone since 1 week.
-
-#### TL;DR
-
-I found a stray cat that i cannot keep because my mother, i keep it for 1 week hidden in my room, finally, she accepted to me to keep it because i took care of him.
-
-[<< previous](https://github.com/MrOlivierdA/markdown-challenge) || GATISSEUR JULIEN || [next >>](https://github.com/henrihals/markdown-challenge)
